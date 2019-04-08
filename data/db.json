@@ -1,6 +1,6 @@
 {
   "ids": {
-    "Todo": 7
+    "Todo": 8
   },
   "models": {
     "Todo": {
@@ -9,7 +9,8 @@
       "3": "{\"title\":\"terrorize senate\",\"desc\":\"Tell them they're getting a budget cut.\",\"id\":3}",
       "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}",
       "5": "{\"title\":\"string\",\"id\":5,\"desc\":\"string\",\"isComplete\":true}",
-      "6": "{\"title\":\"早点睡觉\",\"id\":6}"
+      "6": "{\"title\":\"早点睡觉\",\"id\":6}",
+      "7": "{\"id\":7,\"title\":\"string\",\"desc\":\"string\",\"isComplete\":true,\"remindAtAddress\":\"string\",\"remindAtGeo\":\"string\"}"
     }
   }
 }
